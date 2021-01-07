@@ -1,7 +1,7 @@
 # Driver_Drowsiness_Detection_using_OpenCV
 
 # Demo
-![Farmers Market Finder Demo](/demo.gif)
+![ Demo](/demo.gif)
 
 # Introduction
 A computer vision system that can automatically detect driver drowsiness in a real-time video stream and then play an alarm if the driver appears to be drowsy.
